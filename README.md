@@ -15,5 +15,5 @@
 
 
 <a href="https://github.com/ARYAN-BOT-404/A4YA9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ARYAN-BOT-404&repo=ARYAN&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.render.com/api/pin/?username=ARYAN-BOT-404&repo=A4YA9&theme=algolia" />
 </a>
